@@ -1,1 +1,1 @@
-# -Naive-Bayes-Classifier-Algorithm
+# Naive-Bayes-Classifier-Algorithm
