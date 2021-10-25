@@ -9,11 +9,7 @@
 - Conditional Probabilty is the likelihood of an outcome occuring, with respect to previouse outcome occuring.
 - Bayes' theorem allows you to update predicted probabilities of an event by incorporating new information.
 
-In mathematical notation, the probability of an event, :math:`A`, is denoted by
-:math:`P(A)`
-
 The theorem is:
-
 
   ![equation](http://latex.codecogs.com/gif.latex?P(A|B)%3D%5Cfrac%7BP(B|A)P(A)%7D%7B{P(B)}%7D)  
 
